@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Group5_HW2</string>
+    <string name="buttonGenerate">Generate</string>
+    <string name="textViewForThread">For Thread:</string>
+    <string name="textViewSelectPasswordCount1">Select Password Count:</string>
+
+    <string name="textViewSelectPasswordLength1">Select Password Length:</string>
+
+    <string name="textViewSelectPasswordCount2">Select Password Count:</string>
+
+    <string name="textViewSelectPasswordLength2">Select Password Length:</string>
+
+    <string name="textViewForAsyncTask">For Async Task:</string>
+
+</resources>
